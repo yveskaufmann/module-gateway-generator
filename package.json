@@ -6,6 +6,7 @@
   "engines": {
     "vscode": "^1.36.0"
   },
+  "publisher": "yveskaufmann",
   "categories": [
     "Other"
   ],
@@ -23,6 +24,10 @@
         "title": "Generate module gateway"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yveskaufmann/module-gateway-generator.git"
   },
   "scripts": {
     "vscode:prepublish": "npm run compile",
