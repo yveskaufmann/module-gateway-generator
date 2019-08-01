@@ -2,7 +2,7 @@
   "name": "module-gateway-generator",
   "displayName": "module-gateway-generator",
   "description": "This vscode extension allows you generate index.ts files which re export all local files",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.36.0"
   },
